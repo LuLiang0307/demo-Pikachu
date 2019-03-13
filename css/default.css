@@ -42,3 +42,6 @@ body{
 .actions > button.active{
     box-shadow: 1px 1px 1px rgba(0,0,0,0.8)
 }
+.actions > button:focus{
+    outline: none;
+} 
